@@ -10,7 +10,7 @@ import freemarker.template.Version;
 import org.jasypt.util.text.StrongTextEncryptor;
 import spark.Session;
 
-import javax.security.auth.login.Configuration;
+//import javax.security.auth.login.Configuration;
 import java.io.StringWriter;
 import java.time.LocalDate;
 import java.util.ArrayList;
